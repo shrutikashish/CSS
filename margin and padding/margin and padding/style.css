@@ -1,0 +1,31 @@
+#pad{border: 2px solid chartreuse;
+    padding:25px 30px;
+
+}
+.mar{
+    border:2px solid blue;
+    padding:45px 50px;
+}
+
+#mar1{
+    border :2px dotted red;
+    padding:40px;
+    margin:50px 40px 60px 45px;
+    
+}
+
+.marg{
+    border:2px solid blue;
+    padding: 50px 60px;
+    margin:50px 40px 50px 60px;
+}
+
+#margin{
+    border:2px solid green;
+    padding :60px 40px;
+    margin-top :-80px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+    margin-left: 25px;
+}
+
