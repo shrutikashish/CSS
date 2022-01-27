@@ -1,0 +1,19 @@
+.border{
+    border-style:dashed;
+
+}
+.bod{
+    border-style:dotted;
+}
+
+.bor{
+    border-style: solid;
+}
+
+.bord{
+    border-style: groove;
+}
+
+.borm{
+    border-style: ridge;
+}
