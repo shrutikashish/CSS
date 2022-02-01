@@ -1,0 +1,26 @@
+#abc{
+    border: 1px solid red;
+    width:800pt;
+    cursor:all-scroll
+}
+#chi{
+    border:2px solid blue;
+    width:70pc;
+    cursor:cell;
+}
+#parent{
+    border:2px solid green;
+    width:50vw;
+    height:60vh;
+} 
+#child{
+    border:2px solid red;
+    width:30%;
+    height:50vh
+}
+#abc1{
+    font-size:55px;
+}
+#chi1{
+    font-size:2em;
+}
