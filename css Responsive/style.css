@@ -1,0 +1,32 @@
+#T1{
+    width:70%;
+    float:left;
+    background-color: blue;
+}
+#T2{
+    width:30%;
+    float:left;
+    background-color: crimson;
+}
+h1{
+    font-size: 80px;;
+}
+@media screen and (min-width:400px){
+    #T1{
+        width:100%;
+    }
+    #T2{
+        width:100%;
+        color:white;
+        background-color:black;
+    }
+}
+@media screen and (max-width:768px){
+    #T1{
+    width:50%;
+    }
+    #T2{
+        width:50%;
+    }
+}
+
