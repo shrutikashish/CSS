@@ -1,0 +1,46 @@
+.flex-container{
+    background-color:indigo ;
+    display: flex;
+    flex-direction: row;
+}
+.pro{
+    background-color:indianred;
+    margin:20px;
+    padding:20px;
+
+}
+.flex-con{
+    background-color: red;
+    display: flex;
+    flex-flow:row wrap;
+    justify-content:space-around;
+    height: 400px;
+    align-items:flex-end;
+    align-content: space-around;
+}
+.pri{
+    background-color:blue;
+    margin:20px;
+    padding:20px;
+}
+.flex-co{
+    background-color: violet;
+    display: flex;
+    flex-flow:row wrap;
+    justify-content:center;
+    height:70vh;
+    align-items:center;
+    flex-wrap:wrap;
+}
+
+.logo{
+    background-color:blue;
+    margin:20px;
+    padding:20px;
+    width: 100px;
+    text-align:center;
+
+
+}
+
+}
