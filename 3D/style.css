@@ -1,0 +1,15 @@
+#content{
+    border:2px solid blue;
+    height: 200px;
+    width: 200px;
+    margin: 150px;
+
+}
+
+#cover{
+    height:200px;
+    width:200px;
+    background-color: red;
+    transform:perspective(300px) rotate3d(0, 0, 50, 30deg);
+
+}
