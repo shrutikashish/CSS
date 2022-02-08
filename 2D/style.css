@@ -1,0 +1,30 @@
+#mar{
+    padding:30px;
+    margin:50px;
+}
+a{
+    text-decoration:none;
+    background:blue;
+    padding:10px 20px;
+    color:red;
+    
+}
+a:hover{
+    display:inline-block;
+    transform: rotate(20deg);
+}
+#u{
+    padding:30px;
+    margin:50px;
+}
+a{
+    text-decoration:none;
+    background:blue;
+    padding:10px 20px;
+    color:red;
+    display:inline-block;
+    transform: skew(20deg,10deg);
+    
+    
+}
+
