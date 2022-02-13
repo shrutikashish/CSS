@@ -1,0 +1,24 @@
+li:nth-child(odd) {
+    color:blue;
+
+}
+input:focus{
+    border: 3px solid red;
+
+}
+
+p::first-line{
+    font-size: 25px;
+    color:seagreen;
+
+}
+::selection{
+    color:red;
+    background:blue;
+    
+}
+
+
+
+
+

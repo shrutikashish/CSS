@@ -1,0 +1,13 @@
+#star{
+    font-size:90px;
+    text-shadow: 25px 30px 9px blue;
+}
+#superman{
+    font-size:80px;
+    border:2px solid greenyellow;
+    background-color: indigo;
+    margin:150px;
+    padding:20px;
+    box-shadow: 40px 20px 8px 15px red ;
+
+}
