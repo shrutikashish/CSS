@@ -1,0 +1,23 @@
+#div{
+    
+    height: 500px;
+    border: 3px solid red;
+    background-image: linear-gradient(blue,violet);
+}
+
+#di{
+    height: 700px;
+    border: 2px solid purple;
+    background-image: linear-gradient(to right,green,red,blue,pink);
+
+
+}
+
+#dia{
+    height: 700px;
+    border: 2px solid purple;
+    background-image: radial-gradient(circle,green,red,blue,pink);
+
+}
+    
+
