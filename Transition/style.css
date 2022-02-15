@@ -1,0 +1,14 @@
+#di1{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    margin:100px;
+    transition-property: width, background-color;
+    transition-duration:1ms;
+
+}
+
+#di1:hover{
+    width: 200px;
+    background-color: chartreuse;
+}
