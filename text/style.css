@@ -1,0 +1,48 @@
+#text{
+    width: 1024px;
+    border:2px solid red;
+    color:green;
+    text-align:center;
+    text-transform:uppercase;
+    margin: 50px,60px;
+
+}
+
+.tex{
+    width:300px;
+    border:2px solid blue;
+    color:red;
+    text-align :center;
+    direction:rtl;
+    text-decoration:line-through;
+    margin: 45px,50px;
+
+}
+.pro{
+    width:400px;
+    border:2px double greenyellow;
+    color:purple;
+    text-align:right;
+    text-decoration: underline;
+}
+
+.si{
+    width:800px;
+    border:2px dotted firebrick;
+    color:forestgreen;
+    text-align: left;
+    word-spacing: 25px;
+    text-indent: 50px;
+    line-height: 65px;
+
+}
+
+
+  #nurtre{
+    /* white-space: pre; */
+
+     word-wrap:break-word;
+     width: 250px; 
+     border: 1px solid #ce1414;
+
+}
